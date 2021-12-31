@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg" alt="License" />
   </a>
 </p>
+
 ## Introduction 
 Rumsan Wallet app is a multi-purpose blockchain-based wallet mobile ap. It can store crypto assets like token and documents securely. It can also help in login to the web applications. It can approve and execute blockchain functions. It can completely replace MetaMask.
 ## Getting Started 
